@@ -35,7 +35,7 @@ A bulleted list is considered an 'Unordered' list.  A numbered list is considere
 
 ### Q3 - Animal Image
 
-Insert your answer and explanation here
+![Picture of my dog after getting his halloween haircut](Photoroom_20251030_125817.jpeg)
 
 ## Tableau
 
