@@ -35,8 +35,8 @@ A bulleted list is considered an 'Unordered' list.  A numbered list is considere
 
 ### Q3 - Animal Image
 
-![Picture of my dog after getting his halloween haircut](Photoroom_20251030_125817.jpeg)
-
+![Picture of my dog after getting his halloween haircut](Photoroom_20251030_125817.jpeg)  
+This animal photo is of my dog, Dewey, after he got a haircut for halloween. I performed this by uploading a new file in the same repository as this homework assignment, copying its file path, and using the `![alt text](path_to_image)` syntax.
 ## Tableau
 
 ### Q1 - Region Other Than the South
