@@ -8,22 +8,27 @@ Due: Sunday, February 8, 2026
 
 ### Q1 - URL of GitHub Repo
 
-Insert your answer and explanation here
+URL: https://github.com/holdentatum11/hw1-git-github-practice
+This is the URL of my personal repository where I was able to practice using Git/GitHub.  I personally only used Github.com and GitHub Desktop for this assignment.
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+The 'pull' command works by sending remote changes from GitHub.com browser over to the local GitHub Desktop.  The reverse would be considered the 'push' command.
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+I personally created text files as my files for this assignment, therefore the issues that could have happened if there was no update on GitHub.com could be either I have forgotten to save on the Notepad edit I made on the file, or I didn't click the 'push' command on GitHub Desktop.
 
 ## Markdown
 
 ### Q1 - Bulleted List
 
-Insert your answer and explanation here
+Dog Shopping List:
+- Baked Chicken
+- Milk-Bone Dog Treats
+- Blue Buffalo Dog Food
 
+A bulleted list is considered an 'Unordered' list.  A numbered list is considered an 'Ordered' list. You only need the dash (-) symbol in front to create a bulleted list, whereas a number list requred you to start with 1. and it will began to make each point the ascending consecutive number.  It actually doesn't matter what the numbers are after 1 in the markdown as the results will be the same.
 ### Q2 - Markdown Paragraph
 
 Insert your answer and explanation here
