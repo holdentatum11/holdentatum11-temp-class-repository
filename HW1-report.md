@@ -8,7 +8,7 @@ Due: Sunday, February 8, 2026
 
 ### Q1 - URL of GitHub Repo
 
-URL: https://github.com/holdentatum11/hw1-git-github-practice
+URL: https://github.com/holdentatum11/hw1-git-github-practice  
 This is the URL of my personal repository where I was able to practice using Git/GitHub.  I personally only used Github.com and GitHub Desktop for this assignment.
 
 ### Q2 - Pull Command
