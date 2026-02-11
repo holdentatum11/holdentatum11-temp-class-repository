@@ -1,19 +1,25 @@
-Homework 1: Tool Setup
-Insert Your Name Here
+# Homework 1: Tool Setup
+
+Holden Tatum
 CS 625, Spring 2026
 Due: Sunday, February 8, 2026
 
-Git, GitHub
-Q1 - URL of GitHub Repo
+## Git, GitHub
+
+### Q1 - URL of GitHub Repo
+
 Insert your answer and explanation here
 
-Q2 - Pull Command
+### Q2 - Pull Command
+
 Insert your answer and explanation here
 
-Q3 - Local Commits
+### Q3 - Local Commits
+
 Insert your answer and explanation here
 
-Markdown
+## Markdown
+
 Q1 - Bulleted List
 Insert your answer and explanation here
 
