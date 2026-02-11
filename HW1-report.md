@@ -78,7 +78,7 @@ Insert your answer and explanation here
 
 ## References
 
-Eavery report must include a References section that lists the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples. Everyone will use some reference to complete these assignments (even I would). You will lose points on your assignment if you do not include the references you used.
+*Eavery report must include a References section that lists the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples. **Everyone will use some reference to complete these assignments (even I would). You will lose points on your assignment if you do not include the references you used.***
 
 - Graph Network using Vega-Lite or Vega, https://stackoverflow.com/questions/77096216/graph-network-using-vega-lite-or-vega
 - Calculating percentage change - Math for journalists, https://observablehq.com/@nshiab/math-for-journalists
