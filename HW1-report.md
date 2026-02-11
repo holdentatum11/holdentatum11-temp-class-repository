@@ -31,7 +31,7 @@ Dog Shopping List:
 A bulleted list is considered an 'Unordered' list.  A numbered list is considered an 'Ordered' list. You only need the dash (-) symbol in front to create a bulleted list, whereas a number list requred you to start with 1. and it will began to make each point the ascending consecutive number.  It actually doesn't matter what the numbers are after 1 in the markdown as the results will be the same.
 ### Q2 - Markdown Paragraph
 
-Insert your answer and explanation here
+*I have used **Markdown** before in projects I recently did last semester.* **It was the first time I did any coding and I mostly learned from using the internet and observing the `text` from my partners in my project who were experienced.**  Websites such as: https://markdownguide.offshoot.io/basic-syntax/, also help when looking for all the types of basic `syntax` for markdown. ***As I progress through this career path, I hope that all these basic `syntax` become second nature to me.***
 
 ### Q3 - Animal Image
 
