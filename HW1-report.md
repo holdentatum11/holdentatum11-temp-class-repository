@@ -55,33 +55,35 @@ I excuted all the functions and made a few edits along the way. This include cha
 
 ### Q1 - First Penguin Image
 
-![figure1](bill_depth_by_bill_length.png)
+![figure1](bill_depth_by_bill_length.png)  
+This dotplot is of the Palmer Penguins dataset showing `bill_length_mm` by `bill_depth_mm`.  The dataset was loaded using pandas and the figure was created using seaborn.objects.  There doesn't appear to be any linear relationship between these two variables, but there could be possible clusters where `bill_length_mm` is medium and `bill_depth_mm` is low, and also vice versa.
 
 ### Q2 - Second Penguin Image
 
-Insert your answer and explanation here
+![figure2](body_mass_barplot.png)  
+This barplot is of the Palmer Penguins dataset showing `species` by `body_mass_g`.  The dataset was loaded using pandas and the figure was created using seaborn.objects.  Here we can see that `Gentoo species` has the highest body mass of the three species shown, while both `Adelie` and `Chinstrap` are about even if not the exact same.
 
 ### Q3 - Outer Parenthesis
 
-Insert your answer and explanation here
+When you remove the outer parenthesis, this causes an `invalid syntax`.  This is due to python not recognizing that the second line is connected to the first expression.  When you use outer parenthesis, this is called an implicit line contuation, which tells python that theres more to this expression until the parenthesis is closed.
 
 ## Observable and Vega-Lite
 
 ### Q1 - markCircle to markSquare
 
-Insert your answer and explanation here
+The circle marks within the chart changed to squares.  Outside of that, there wasn't any differences.
 
 ### Q2 - markCircle to markPoint
 
-Insert your answer and explanation here
+The circle marks within the chart changed to hollow circles.
 
 ### Q3 - Swap X and Y Axes on Scatterplot
 
-Insert your answer and explanation here
+Within the code, you need to swap variable within the parenthesis for `vl.x().fieldQ("Horsepower")` and `vl.y().fieldQ("Miles_per_Gallon")` to `vl.x().fieldQ("Miles_per_Gallon")` and `vl.y().fieldQ("Horsepower")`.
 
 ### Q4 - Remove fieldN(Origin)
 
-Insert your answer and explanation here
+It removed the `Origin` in the y axis, causing `Europe`, `Japan`, and `USA` counts to combine into one bar. Before, we were able to see the number of car models by country, but after removing `vl.y().fieldN("Origin"),`, we could also see the total amount of car models.
 
 ## References
 
