@@ -83,7 +83,7 @@ Within the code, you need to swap variable within the parenthesis for `vl.x().fi
 
 ### Q4 - Remove fieldN(Origin)
 
-![carbarchart](body_mass_barplot.png) 
+![carbarchart](untitled.png) 
 It removed the `Origin` in the y axis, causing `Europe`, `Japan`, and `USA` counts to combine into one bar. Before, we were able to see the number of car models by country, but after removing `vl.y().fieldN("Origin"),`, we could also see the total amount of car models.
 
 ## References
