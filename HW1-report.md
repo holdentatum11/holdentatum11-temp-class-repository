@@ -41,13 +41,15 @@ This animal photo is of my dog, Dewey, after he got a haircut for halloween. I p
 
 ### Q1 - Region Other Than the South
 
-![Sales in the South](Sales_in_the_West.png)
+![Sales in the South](Sales_in_the_West.png)  
+This is the bar chart of the Sales in the West using the Tableau Desktop Public Edition 2025.3.2.  I had to save it Tableau Public server and then download the image through the Tableau browser.
 
 ## Google Colab
 
 ### Q1 - URL of Google Colab Notebook
 
-Insert your answer and explanation here
+URL: https://colab.research.google.com/drive/1MImurwKFYp5fazMBR7qR73klKEnXGOPT?usp=sharing  
+I excuted all the functions and made a few edits along the way. This include changing vairables, changing width and color for the notion of magics from Jupyter, and changing a variable from 1 to 2 in order to prevent an error.
 
 ## Python/Seaborn
 
