@@ -55,7 +55,7 @@ I excuted all the functions and made a few edits along the way. This include cha
 
 ### Q1 - First Penguin Image
 
-Insert your answer and explanation here
+![figure1](bill_depth_by_bill_length.png)
 
 ### Q2 - Second Penguin Image
 
