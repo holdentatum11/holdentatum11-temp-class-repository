@@ -41,7 +41,7 @@ This animal photo is of my dog, Dewey, after he got a haircut for halloween. I p
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
+![Sales in the South](Sales in the West.png)
 
 ## Google Colab
 
